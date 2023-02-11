@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [scientifigin.live](https://www.scientifigin.live/)
+- 🔭 I’m currently working on [https://www.scientifigin.live](https://www.scientifigin.live/)
 
 - 🌱 I’m currently learning **Heroku, React Native**
 
