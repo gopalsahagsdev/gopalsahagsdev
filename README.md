@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 <h1 align="center">Hi 👋, I'm Gopal Saha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend developer from India by hobby</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
 
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web Developing , MEARN**
 
-- 📫 How to reach me **gopalsaha@scientifigin.live**
+- 📫 How to reach me **g.edu.user@gmail.com**
 
 - ⚡ Fun fact **Coding is fun for free to free the brain's jam.**
 
